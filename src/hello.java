@@ -3,6 +3,7 @@ public class hello {
         System.out.println("hello");
         System.out.println("word");
         System.out.println("master test");
+        System.out.println("hot-fix Test");
     }
 }
 
