@@ -4,6 +4,7 @@ public class hello {
         System.out.println("word");
         System.out.println("hot-fix");
         System.out.println("hot-fix Test");
+        System.out.println("push commit");
     }
 }
 
