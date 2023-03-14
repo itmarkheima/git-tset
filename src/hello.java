@@ -5,6 +5,9 @@ public class hello {
         System.out.println("master test");
         System.out.println("hot-fix Test");
         System.out.println("push commit");
+        System.out.println("pull commit");
+        
+        
     }
 }
 
